@@ -1,2 +1,2 @@
 # git_course
-#oroject notes
+project notes
